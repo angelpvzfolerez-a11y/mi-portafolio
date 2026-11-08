@@ -143,3 +143,10 @@ img {
 button {
     transition: 0.3s ease;
 }
+.precio {
+    color: #00d9ff;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 15px;
+    text-shadow: 0 0 8px rgba(0, 217, 255, 0.4);
+}
